@@ -4,7 +4,7 @@
   
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -78,7 +78,7 @@ My Project name is "Hello Microverse"
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Techcolony)
+- GitHub: [@Techcolony](https://github.com/Techcolony)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
