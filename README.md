@@ -1,11 +1,6 @@
-<a name="readme-top"></a>
 
 <div align="center">
-  
-  <br/>
-
   <h3><b>Hello Microverse</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -33,22 +28,15 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
+# 📖 [Portfolio Setup and Mobile First] <a name="about-project"></a>
 
-# 📖 [your_project_name] <a name="about-project"></a>
+> Describe your project in 1 or 2 sentences.
 
-My Project name is "Hello Microverse"
+Hello Microverse is a project to practice how linters and webhint works, how to implement gitHub flow and document changes in github.
 
-## 🛠 Built With <a name="built-with">Html and CSS</a>
+## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
-### Tech Stack <a name="tech-stack">VScode</a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>Html</li>
-    <li>CSS</li>
-  </ul>
-</details>
+### Tech Stack <a name="tech-stack"></a>
 
 <!-- Features -->
 
@@ -66,7 +54,30 @@ My Project name is "Hello Microverse"
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- ((https://github.com/Techcolony/linter.git))
+
+- [Live Demo Link](https://github.com/Techcolony/linter.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+--->
+###	From your github account
+--->
+###	Clone this repository to your desired folder:
+--->
+###	or copy the link url and clone on your terminal using
+git clone git@github.com:Techcolony/linter.git
+--->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,12 +85,44 @@ My Project name is "Hello Microverse"
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Techcolony**
 
-👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/Techcolony)
 
-- GitHub: [@Techcolony](https://github.com/Techcolony)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[Javascript page to be added]**
+- **[Project to be made more responsive]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page] and make comments for any suggested changes.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message tShow your support and encouragement by sharing to other readers to support and Like the Project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank @yin-ka and Omar for their supports when am stuck while working. Also, my code reviewers are doing a great Job
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +131,4 @@ My Project name is "Hello Microverse"
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
