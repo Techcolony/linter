@@ -28,7 +28,6 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-
 # 📖 [Portfolio Setup and Mobile First] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
@@ -49,12 +48,12 @@ Hello Microverse is a project to practice how linters and webhint works, how to 
 - **[Pull request was done with github]**
 - **[Two branches were created for the project]**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
 
 - [Live Demo Link](https://github.com/Techcolony/linter.git)
 
@@ -132,7 +131,4 @@ I would like to thank @yin-ka and Omar for their supports when am stuck while wo
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
